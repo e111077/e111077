@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<link href="https://mstdn.social/@techytacos" rel="me">
+I work on Google's Lit project, Web Components, and Material Design. Welcome to my GitHub profile!
